@@ -11,4 +11,6 @@ HCI Assignment #1 : <https://github.com/dskym/dskym.github.io/blob/master/HW1.do
 
 HCI Assignment #2 : <https://github.com/dskym/dskym.github.io/blob/master/HW2.docx>
 
-HCI Assignment #3 : <https://github.com/dskym/dskym.github.io/blob/master/HW3.docx>
+HCI Assignment #3-1 : <https://github.com/dskym/dskym.github.io/blob/master/HW3.docx>
+
+HCI Assignment #3-2 : <http://35.241.121.198>
