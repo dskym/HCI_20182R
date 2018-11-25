@@ -18,3 +18,5 @@ HCI Assignment #3-2 : <http://35.241.121.198>
 HCI Assignment #4-1-1 : <https://github.com/dskym/dskym.github.io/tree/master/HW4-1-1>
 
 HCI Assignment #4-1-2 : <https://github.com/dskym/dskym.github.io/tree/master/HW4-1-2>
+
+HCI Assignment #4-2 : <https://github.com/dskym/dskym.github.io/tree/master/HW4-2>
