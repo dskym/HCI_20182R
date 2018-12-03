@@ -24,3 +24,5 @@ HCI Assignment #4-1-3 : <https://github.com/dskym/dskym.github.io/tree/master/HW
 HCI Assignment #4-2 : <https://github.com/dskym/dskym.github.io/blob/master/HW4-2.docx>
 
 HCI Assignment #4-3 : <https://github.com/dskym/dskym.github.io/blob/master/HW4-3.docx>
+
+HCI Assignment #4-4 : <https://github.com/dskym/dskym.github.io/tree/master/HW4-4>
